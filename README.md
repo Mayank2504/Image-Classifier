@@ -20,5 +20,6 @@ Installation: you need to install Python 3.6, face_detection library, and cMake 
 
 
 Functionality V0.2:
+
       1. Added a Progress bar to show progress of classifying process
       2. Added a Stop button to stop processing and exit the programme

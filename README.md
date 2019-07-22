@@ -16,7 +16,8 @@ Next improvments to be added:
 
 Addding a progress bar which shows progress of the process of sorting Handling all negative-case scenarios and errors Currently the app is only compatible to Windows machine, so we need to make it compatible for Macos and Linux as well.
 
-Installation: you need to install Python 3.6, face_detection library, and cMake to run this project on your desktop.
+Installation:
+you need to install Python 3.6, face_detection library, and cMake to run this project on your desktop.
 
 
 Functionality V0.2:

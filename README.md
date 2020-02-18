@@ -24,3 +24,5 @@ Functionality V0.2:
 
       1. Added a Progress bar to show progress of classifying process
       2. Added a Stop button to stop processing and exit the programme
+
+Added comment for checking feature branch
